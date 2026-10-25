@@ -17,7 +17,7 @@
   </tr>
 </table>
 
-I'm a PhD researcher in Human Genetics at McGill University, working at the intersection of computational genomics, statistical genetics, machine learning, and software engineering.
+I'm a PhD researcher in Human Genetics at McGill CERC in Genomics Medicine, working at the intersection of computational genomics, statistical genetics, machine learning, and software engineering.
 
 I develop computational methods and scalable software platforms to address challenges in genomic data analysis, privacy-aware data sharing, and interactive visualization of large-scale genetic association studies.
 
